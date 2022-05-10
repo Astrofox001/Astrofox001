@@ -2,7 +2,7 @@
 - 👀 I’m interested in High Power Rocketry
 - 🌱 I’m currently learning stuff (tm).
 - 💞️ I’m looking to collaborate on (???)
-- 📫 How to reach me: Twitter DMs, maybe here if there's a way to do so...
+- 📫 How to reach me: Twitter DMs, maybe here if there's a way to do so privately...
 
 <!---
 Astrofox001/Astrofox001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
